@@ -154,3 +154,8 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participant {
+  color: blue;
+  font-weight: bold;
+}
